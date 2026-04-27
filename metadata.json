@@ -1,0 +1,6 @@
+{
+  "name": "Smart Keys Bot",
+  "description": "A premium Telegram Bot store named Smart Keys for selling accounts with automated payments and support system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["TELEGRAM_BOT", "BINANCE_PAY", "ADMIN_PANEL"]
+}

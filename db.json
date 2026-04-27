@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "8279468317",
+      "username": "NoPasswordNo",
+      "balance": 0,
+      "isAdmin": true,
+      "referralCount": 0,
+      "totalAffiliateEarnings": 0,
+      "v": 8
+    },
+    {
+      "id": "8530291749",
+      "username": "Moon3261",
+      "balance": 0,
+      "isAdmin": false,
+      "referralCount": 0,
+      "totalAffiliateEarnings": 0,
+      "v": 8
+    },
+    {
+      "id": "8780098542",
+      "username": "SmartKeysDaily",
+      "balance": 0,
+      "isAdmin": false,
+      "referralCount": 0,
+      "totalAffiliateEarnings": 0,
+      "v": 8
+    },
+    {
+      "id": "6391248667",
+      "username": "SmartKeysDaily",
+      "balance": 0,
+      "isAdmin": false,
+      "referralCount": 0,
+      "totalAffiliateEarnings": 0,
+      "v": 8
+    }
+  ],
+  "products": [
+    {
+      "id": "yt_prem",
+      "name": "YouTube Premium 1 Month",
+      "price": 2.5,
+      "category": "Video",
+      "accounts": [
+        "yt_user1:pass1"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "gpt_plus",
+      "name": "ChatGPT Plus 1 Month",
+      "price": 15,
+      "category": "AI",
+      "accounts": [
+        "gpt_user1:pass1"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "spot_prem",
+      "name": "Spotify Premium 1 Month",
+      "price": 1.5,
+      "category": "Music",
+      "accounts": [
+        "spot_user1:pass1"
+      ],
+      "reviews": []
+    }
+  ],
+  "orders": [],
+  "transactions": [],
+  "support_messages": []
+}
